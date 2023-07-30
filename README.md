@@ -1,8 +1,8 @@
 # MATLABAIChallenge2023
 
 figure 폴더안에는
-fig_output이 reference로 사용되는 굴착기 버킷의 경로 그래프  
-fig_predict가 아래 과정을 통해 만든 신경망을 이용해 생성한 굴착기 버킷의 경로 그래프 모음  
+fig_output이 reference로 사용되는 굴착기 버킷의 경로 그래프,  
+fig_predict가 아래 과정을 통해 만든 신경망을 이용해 생성한 굴착기 버킷의 경로 그래프 모음  
 ( 총 204개의 상황에 대해 각각의 파일 구성 )  
 
 코드 실행 순서  
